@@ -1,0 +1,21 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.main {
+    height: 100%;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 50px auto;
+    border: 0 2px 0 2px;
+}
+
+.section2 {
+    padding: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.171);
+    border-radius: 20px;
+    background-color: rgba(240, 248, 255, 0.546);
+}
